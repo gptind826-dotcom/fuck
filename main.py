@@ -56,7 +56,7 @@ except ImportError:
 API_ID = 36811424  # Replace with your API ID
 API_HASH = "f28edfab583936ea62d6b458f754a4bd"  # Replace with your API Hash
 BOT_TOKEN = "8713105830:AAG7VD0axvjPjFUv2AwglAxGKQCwDBQ1hEU"  # Replace with your Bot Token
-PHONE_NUMBER = "+01722253348"  # Replace with your phone number
+PHONE_NUMBER = "+8801722253348"  # Replace with your phone number
 OWNER_ID = 8469461108  # Replace with your Telegram user ID
 
 # EXU Channels Configuration
